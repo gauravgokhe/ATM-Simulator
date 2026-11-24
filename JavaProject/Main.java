@@ -1,9 +1,5 @@
 import java.io.*;
 import java.util.*;
-
-// ATM Simulator - simple version
-// Queue = waiting customers | Stack = transactions | Array = accounts
-// Searching = find account | Greedy = notes 500, 200, 100 | File = accounts.txt
 public class Main {
 
     // accounts stored in arrays (same index = same account)
